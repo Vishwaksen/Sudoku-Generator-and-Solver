@@ -1,11 +1,13 @@
 Sudoku Generator and Solver
 
 This is a simple, GUI based sudoku game developed using Java which includes:
-Point.java - keeps track of X, Y co-ordinates of the sudoku grid
-Sudoku.java - a sudoku solver which is using an optimized backtracking algorithm to test the solutions.
-SudokuGenerator.java - a sudoku generator which produces sudoku puzzle using matrix transformations of standard sudoku puzzle.
-SudokoSolver.java - three difficulty levels based on time given to solve the puzzle.
-This uses a Java Swing toolkit based GUI.
+
+- Point.java - keeps track of X, Y co-ordinates of the sudoku grid
+- Sudoku.java - a sudoku solver which is using an optimized backtracking algorithm to test the solutions.
+- SudokuGenerator.java - a sudoku generator which produces sudoku puzzle using matrix transformations of standard sudoku puzzle.
+- SudokoSolver.java - three difficulty levels based on time given to solve the puzzle.
+
+This is developed using Java Swing based GUI.
 
 This involves the following functionalities,
 
