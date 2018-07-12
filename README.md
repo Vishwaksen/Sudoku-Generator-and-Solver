@@ -1,6 +1,6 @@
 Sudoku Generator and Solver
 
-This is a simple, GUI based sudoku game developed using Java which includes:
+This is a GUI based sudoku game developed using Java which includes:
 
 - Point.java - keeps track of X, Y co-ordinates of the sudoku grid
 - Sudoku.java - a sudoku solver which is using an optimized backtracking algorithm to test the solutions.
